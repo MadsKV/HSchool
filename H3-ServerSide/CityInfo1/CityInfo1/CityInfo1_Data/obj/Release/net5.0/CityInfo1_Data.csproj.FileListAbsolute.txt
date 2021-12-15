@@ -1,0 +1,15 @@
+c:\Lars\h5pd091121\ServerSide\CityInfo1\CityInfo1\CityInfo1_Data\bin\Release\net5.0\CityInfo1_Data.deps.json
+c:\Lars\h5pd091121\ServerSide\CityInfo1\CityInfo1\CityInfo1_Data\bin\Release\net5.0\CityInfo1_Data.runtimeconfig.json
+c:\Lars\h5pd091121\ServerSide\CityInfo1\CityInfo1\CityInfo1_Data\bin\Release\net5.0\CityInfo1_Data.runtimeconfig.dev.json
+c:\Lars\h5pd091121\ServerSide\CityInfo1\CityInfo1\CityInfo1_Data\bin\Release\net5.0\CityInfo1_Data.dll
+c:\Lars\h5pd091121\ServerSide\CityInfo1\CityInfo1\CityInfo1_Data\bin\Release\net5.0\ref\CityInfo1_Data.dll
+c:\Lars\h5pd091121\ServerSide\CityInfo1\CityInfo1\CityInfo1_Data\bin\Release\net5.0\CityInfo1_Data.pdb
+c:\Lars\h5pd091121\ServerSide\CityInfo1\CityInfo1\CityInfo1_Data\obj\Release\net5.0\CityInfo1_Data.csproj.AssemblyReference.cache
+c:\Lars\h5pd091121\ServerSide\CityInfo1\CityInfo1\CityInfo1_Data\obj\Release\net5.0\CityInfo1_Data.GeneratedMSBuildEditorConfig.editorconfig
+c:\Lars\h5pd091121\ServerSide\CityInfo1\CityInfo1\CityInfo1_Data\obj\Release\net5.0\CityInfo1_Data.AssemblyInfoInputs.cache
+c:\Lars\h5pd091121\ServerSide\CityInfo1\CityInfo1\CityInfo1_Data\obj\Release\net5.0\CityInfo1_Data.AssemblyInfo.cs
+c:\Lars\h5pd091121\ServerSide\CityInfo1\CityInfo1\CityInfo1_Data\obj\Release\net5.0\CityInfo1_Data.csproj.CoreCompileInputs.cache
+c:\Lars\h5pd091121\ServerSide\CityInfo1\CityInfo1\CityInfo1_Data\obj\Release\net5.0\CityInfo1_Data.dll
+c:\Lars\h5pd091121\ServerSide\CityInfo1\CityInfo1\CityInfo1_Data\obj\Release\net5.0\ref\CityInfo1_Data.dll
+c:\Lars\h5pd091121\ServerSide\CityInfo1\CityInfo1\CityInfo1_Data\obj\Release\net5.0\CityInfo1_Data.pdb
+c:\Lars\h5pd091121\ServerSide\CityInfo1\CityInfo1\CityInfo1_Data\obj\Release\net5.0\CityInfo1_Data.genruntimeconfig.cache

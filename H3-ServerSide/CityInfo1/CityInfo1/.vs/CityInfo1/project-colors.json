@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9ad57cc3-303b-4f87-9660-85230ddc52fe": {
+      "ProjectGuid": "9ad57cc3-303b-4f87-9660-85230ddc52fe",
+      "DisplayName": "CityInfo1_WebApi",
+      "ColorIndex": 0
+    },
+    "67f65f4a-e272-4998-8341-49b71ac1dba7": {
+      "ProjectGuid": "67f65f4a-e272-4998-8341-49b71ac1dba7",
+      "DisplayName": "CityInfo1_Data",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
