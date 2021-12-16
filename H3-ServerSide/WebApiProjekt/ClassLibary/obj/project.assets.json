@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\H3\\H3-ServerSide\\WebApiProjekt\\ClassLibary\\ClassLibary.csproj",
+      "projectUniqueName": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\WebApiProjekt\\ClassLibary\\ClassLibary.csproj",
       "projectName": "ClassLibary",
-      "projectPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\H3\\H3-ServerSide\\WebApiProjekt\\ClassLibary\\ClassLibary.csproj",
+      "projectPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\WebApiProjekt\\ClassLibary\\ClassLibary.csproj",
       "packagesPath": "C:\\Users\\MadsV\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\H3\\H3-ServerSide\\WebApiProjekt\\ClassLibary\\obj\\",
+      "outputPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\WebApiProjekt\\ClassLibary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MadsV\\AppData\\Roaming\\NuGet\\NuGet.Config",

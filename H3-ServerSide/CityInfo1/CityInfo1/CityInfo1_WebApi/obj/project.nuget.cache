@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kjktbzsgXLu3G80li4yByWr6U80JrbjN4hL0m8fZLdkPloP8bk1R/XONxbeU27OKKfUhklRshWcao/JRB3V6qg==",
+  "dgSpecHash": "De7asctRH35bRm3cIL8QCbHtnA+r454BWPc5fHB2ulkt1aC5QjrDsPvR2LVpNKzPR/e2gFMVGsGW4Mq2CTGKkQ==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\H3\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_WebApi\\CityInfo1_WebApi.csproj",
+  "projectFilePath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_WebApi\\CityInfo1_WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MadsV\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\MadsV\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

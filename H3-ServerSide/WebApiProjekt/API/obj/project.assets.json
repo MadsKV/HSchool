@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\H3\\H3-ServerSide\\WebApiProjekt\\API\\API.csproj",
+      "projectUniqueName": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\WebApiProjekt\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\H3\\H3-ServerSide\\WebApiProjekt\\API\\API.csproj",
+      "projectPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\WebApiProjekt\\API\\API.csproj",
       "packagesPath": "C:\\Users\\MadsV\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\H3\\H3-ServerSide\\WebApiProjekt\\API\\obj\\",
+      "outputPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\WebApiProjekt\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MadsV\\AppData\\Roaming\\NuGet\\NuGet.Config",

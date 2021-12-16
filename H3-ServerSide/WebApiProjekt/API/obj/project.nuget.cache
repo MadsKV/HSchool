@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JOck1dVF3bFcprQ2tk3dqYmp4fygqjTBD7IhrsdoEZiaBt4ZTUtp97ox4Dp7Yb4BNSdM0g1+rpG2+uIP2ugNjA==",
+  "dgSpecHash": "+PtVSzk0HUYvQVDQNBb24CFJTsqHjyo43/PQLpc8yByQi4Eg+SiBugiuAl6tM2BaV6ibSFpqBX+JedpARwstYA==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\H3\\H3-ServerSide\\WebApiProjekt\\API\\API.csproj",
+  "projectFilePath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\WebApiProjekt\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MadsV\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\MadsV\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\Mads-Verner-Klausen---Rep\\H3\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_WebApi\\CityInfo1_WebApi.csproj": {}
+    "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_WebApi\\CityInfo1_WebApi.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\Mads-Verner-Klausen---Rep\\H3\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_Data\\CityInfo1_Data.csproj": {
+    "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_Data\\CityInfo1_Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\H3\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_Data\\CityInfo1_Data.csproj",
+        "projectUniqueName": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_Data\\CityInfo1_Data.csproj",
         "projectName": "CityInfo1_Data",
-        "projectPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\H3\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_Data\\CityInfo1_Data.csproj",
+        "projectPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_Data\\CityInfo1_Data.csproj",
         "packagesPath": "C:\\Users\\MadsV\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\H3\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_Data\\obj\\",
+        "outputPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MadsV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -84,14 +84,14 @@
         }
       }
     },
-    "D:\\GitHub\\Mads-Verner-Klausen---Rep\\H3\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_WebApi\\CityInfo1_WebApi.csproj": {
+    "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_WebApi\\CityInfo1_WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\H3\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_WebApi\\CityInfo1_WebApi.csproj",
+        "projectUniqueName": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_WebApi\\CityInfo1_WebApi.csproj",
         "projectName": "CityInfo1_WebApi",
-        "projectPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\H3\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_WebApi\\CityInfo1_WebApi.csproj",
+        "projectPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_WebApi\\CityInfo1_WebApi.csproj",
         "packagesPath": "C:\\Users\\MadsV\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\H3\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_WebApi\\obj\\",
+        "outputPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MadsV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -108,8 +108,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\GitHub\\Mads-Verner-Klausen---Rep\\H3\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_Data\\CityInfo1_Data.csproj": {
-                "projectPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\H3\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_Data\\CityInfo1_Data.csproj"
+              "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_Data\\CityInfo1_Data.csproj": {
+                "projectPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_Data\\CityInfo1_Data.csproj"
               }
             }
           }
