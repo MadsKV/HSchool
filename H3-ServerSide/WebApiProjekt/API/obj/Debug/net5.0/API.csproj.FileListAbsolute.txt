@@ -1,0 +1,7 @@
+D:\GitHub\Mads-Verner-Klausen---Rep\HSchool\H3-ServerSide\WebApiProjekt\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+D:\GitHub\Mads-Verner-Klausen---Rep\HSchool\H3-ServerSide\WebApiProjekt\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Mads-Verner-Klausen---Rep\HSchool\H3-ServerSide\WebApiProjekt\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\GitHub\Mads-Verner-Klausen---Rep\HSchool\H3-ServerSide\WebApiProjekt\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\GitHub\Mads-Verner-Klausen---Rep\HSchool\H3-ServerSide\WebApiProjekt\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\GitHub\Mads-Verner-Klausen---Rep\HSchool\H3-ServerSide\WebApiProjekt\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\Mads-Verner-Klausen---Rep\HSchool\H3-ServerSide\WebApiProjekt\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
