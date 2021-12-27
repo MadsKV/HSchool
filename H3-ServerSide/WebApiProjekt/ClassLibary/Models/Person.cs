@@ -11,19 +11,19 @@ namespace ClassLibary.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int CityId { get; set; }
+        public int PersonId { get; set; }
         
         [Required]
         [MaxLength(50)]
-        public string CityName { get; set; }
+        public string FirstName { get; set; }
 
         [Required]
         [MaxLength(200)]
-        public string CityDescription { get; set; }
+        public string LastName { get; set; }
         
-        [ForeignKey("CountryID")]
-        public int CountryID { get; set; }
+        [ForeignKey("School")]
+        public int SchoolId { get; set; }
 
-        public virtual Employee Country { get; set; }
+        public virtual School School { get; set; }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\WebApiProjekt\\ClassLibary\\ClassLibary.csproj": {}
+    "C:\\Users\\MadsV\\Documents\\GitHub\\HSchool\\H3-ServerSide\\WebApiProjekt\\ClassLibary\\ClassLibary.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\WebApiProjekt\\ClassLibary\\ClassLibary.csproj": {
+    "C:\\Users\\MadsV\\Documents\\GitHub\\HSchool\\H3-ServerSide\\WebApiProjekt\\ClassLibary\\ClassLibary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\WebApiProjekt\\ClassLibary\\ClassLibary.csproj",
+        "projectUniqueName": "C:\\Users\\MadsV\\Documents\\GitHub\\HSchool\\H3-ServerSide\\WebApiProjekt\\ClassLibary\\ClassLibary.csproj",
         "projectName": "ClassLibary",
-        "projectPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\WebApiProjekt\\ClassLibary\\ClassLibary.csproj",
+        "projectPath": "C:\\Users\\MadsV\\Documents\\GitHub\\HSchool\\H3-ServerSide\\WebApiProjekt\\ClassLibary\\ClassLibary.csproj",
         "packagesPath": "C:\\Users\\MadsV\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\WebApiProjekt\\ClassLibary\\obj\\",
+        "outputPath": "C:\\Users\\MadsV\\Documents\\GitHub\\HSchool\\H3-ServerSide\\WebApiProjekt\\ClassLibary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MadsV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,6 +58,12 @@
               "target": "Package",
               "version": "[5.0.12, )"
             },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[5.0.2, )"
@@ -73,12 +79,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

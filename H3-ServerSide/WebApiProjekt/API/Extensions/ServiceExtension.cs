@@ -1,6 +1,6 @@
-﻿using CityInfo1_Data.Context;
-using CityInfo1_Data.DataManager;
-using CityInfo1_Data.Interfaces;
+﻿using ClassLibary.Context;
+using ClassLibary.DataManager;
+using ClassLibary.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -15,8 +15,8 @@ namespace CityInfo1_WebApi.Extensions
     {
         public static void ConfigureSqlContext(this IServiceCollection services, IConfiguration config)
         {
-            var connectionString = config["connectionStrings:cityInfoDBConnectionString"];
-            services.AddDbContext<DatabaseContext>(o => o.UseSqlServer(connectionString, x => x.MigrationsAssembly("CityInfo1_WebApi")));
+            var connectionString = config["connectionStrings:DBConnectionString"];
+            services.AddDbContext<DatabaseContext>(o => o.UseSqlServer(connectionString, x => x.MigrationsAssembly("API")));
         }
 
         public static void ConfigureRepositoryWrapper(this IServiceCollection services)

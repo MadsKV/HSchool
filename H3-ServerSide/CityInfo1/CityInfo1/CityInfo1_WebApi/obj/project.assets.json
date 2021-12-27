@@ -9190,11 +9190,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_WebApi\\CityInfo1_WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\MadsV\\Documents\\GitHub\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_WebApi\\CityInfo1_WebApi.csproj",
       "projectName": "CityInfo1_WebApi",
-      "projectPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_WebApi\\CityInfo1_WebApi.csproj",
+      "projectPath": "C:\\Users\\MadsV\\Documents\\GitHub\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_WebApi\\CityInfo1_WebApi.csproj",
       "packagesPath": "C:\\Users\\MadsV\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_WebApi\\obj\\",
+      "outputPath": "C:\\Users\\MadsV\\Documents\\GitHub\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MadsV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9211,8 +9211,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_Data\\CityInfo1_Data.csproj": {
-              "projectPath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_Data\\CityInfo1_Data.csproj"
+            "C:\\Users\\MadsV\\Documents\\GitHub\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_Data\\CityInfo1_Data.csproj": {
+              "projectPath": "C:\\Users\\MadsV\\Documents\\GitHub\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_Data\\CityInfo1_Data.csproj"
             }
           }
         }
@@ -9264,6 +9264,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.12, 5.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -9272,7 +9290,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

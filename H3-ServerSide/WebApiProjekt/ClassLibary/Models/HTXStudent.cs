@@ -7,23 +7,11 @@ using System.Threading.Tasks;
 
 namespace ClassLibary.Models
 {
-    public class HTXStudent
+    public class HTXStudent: Student
     {
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int CityId { get; set; }
-        
-        [Required]
-        [MaxLength(50)]
-        public string CityName { get; set; }
+        [ForeignKey("Course")]
+        public int CourseId{ get; set; }
 
-        [Required]
-        [MaxLength(200)]
-        public string CityDescription { get; set; }
-        
-        [ForeignKey("CountryID")]
-        public int CountryID { get; set; }
-
-        public virtual Employee Country { get; set; }
+        public virtual Course Course { get; set; }
     }
 }

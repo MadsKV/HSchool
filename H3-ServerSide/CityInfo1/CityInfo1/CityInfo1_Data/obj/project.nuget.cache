@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ir60N91vKQti8uafA8VOfbZBgfe70dGEOnhymVmrbAXHybSoCxYGzn9lH4Q/J1I00KCcLBG3gF1K5RMznuYyhA==",
+  "dgSpecHash": "ltbJKWk7ykwPFmOuUvIKKT8/d4dBwmJ1b7CmMp/Rbg5y4IvUYWfrkqRkQxW+cc+tYsylrQAtXEflw5m1dyl4Sg==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_Data\\CityInfo1_Data.csproj",
+  "projectFilePath": "C:\\Users\\MadsV\\Documents\\GitHub\\HSchool\\H3-ServerSide\\CityInfo1\\CityInfo1\\CityInfo1_Data\\CityInfo1_Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MadsV\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\MadsV\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
@@ -135,7 +135,10 @@
     "C:\\Users\\MadsV\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\MadsV\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\MadsV\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\MadsV\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\MadsV\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\MadsV\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\MadsV\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\MadsV\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

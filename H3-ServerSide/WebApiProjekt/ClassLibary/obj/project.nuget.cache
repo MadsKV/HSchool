@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V0qNZEECB//z15t06RbGbV686ruX1/vfxQ7gKXcwuoc/0y/wDXTo0nCB+PaYd/n+pgWhh7oMGIz1elU58hEIbA==",
+  "dgSpecHash": "PPDyQRkKGUrJJnG5IdRXGUGc83w0XElroda7qosSwX7Q1MbN8ESH1NxY4uNgOkIv2q2gE/teKhe5gi0cmVVGwg==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Mads-Verner-Klausen---Rep\\HSchool\\H3-ServerSide\\WebApiProjekt\\ClassLibary\\ClassLibary.csproj",
+  "projectFilePath": "C:\\Users\\MadsV\\Documents\\GitHub\\HSchool\\H3-ServerSide\\WebApiProjekt\\ClassLibary\\ClassLibary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MadsV\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\MadsV\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
@@ -27,6 +27,7 @@
     "C:\\Users\\MadsV\\.nuget\\packages\\microsoft.entityframeworkcore.proxies\\5.0.12\\microsoft.entityframeworkcore.proxies.5.0.12.nupkg.sha512",
     "C:\\Users\\MadsV\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.12\\microsoft.entityframeworkcore.relational.5.0.12.nupkg.sha512",
     "C:\\Users\\MadsV\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.12\\microsoft.entityframeworkcore.sqlserver.5.0.12.nupkg.sha512",
+    "C:\\Users\\MadsV\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.12\\microsoft.entityframeworkcore.tools.5.0.12.nupkg.sha512",
     "C:\\Users\\MadsV\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\MadsV\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\MadsV\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
@@ -163,7 +164,10 @@
     "C:\\Users\\MadsV\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\MadsV\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\MadsV\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\MadsV\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\MadsV\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\MadsV\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\MadsV\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\MadsV\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -11,19 +11,13 @@ namespace ClassLibary.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int CityId { get; set; }
+        public int CourseId { get; set; }
         
         [Required]
         [MaxLength(50)]
-        public string CityName { get; set; }
+        public string CourseName { get; set; }
 
-        [Required]
-        [MaxLength(200)]
-        public string CityDescription { get; set; }
-        
-        [ForeignKey("CountryID")]
-        public int CountryID { get; set; }
-
-        public virtual Employee Country { get; set; }
+        public virtual ICollection<HTXStudent> HTXStudents { get; set; }
+        = new List<HTXStudent>();
     }
 }
