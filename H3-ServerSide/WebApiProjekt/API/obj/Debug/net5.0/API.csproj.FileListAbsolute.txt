@@ -143,3 +143,5 @@ C:\Users\MadsV\Documents\GitHub\HSchool\H3-ServerSide\WebApiProjekt\API\obj\Debu
 C:\Users\MadsV\Documents\GitHub\HSchool\H3-ServerSide\WebApiProjekt\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 C:\Users\MadsV\Documents\GitHub\HSchool\H3-ServerSide\WebApiProjekt\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\MadsV\Documents\GitHub\HSchool\H3-ServerSide\WebApiProjekt\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MadsV\Documents\GitHub\HSchool\H3-ServerSide\WebApiProjekt\API\bin\Debug\net5.0\Mapster.dll
+C:\Users\MadsV\Documents\GitHub\HSchool\H3-ServerSide\WebApiProjekt\API\bin\Debug\net5.0\Mapster.Core.dll

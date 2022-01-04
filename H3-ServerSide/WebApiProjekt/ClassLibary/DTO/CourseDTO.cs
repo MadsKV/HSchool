@@ -10,31 +10,26 @@ namespace ClassLibary.DTO
 {
     public class CourseForSaveDto
     {
-        [Required(ErrorMessage = "You should provide a name value.")]
+        [Required]
         [MaxLength(50)]
-        public string CityName { get; set; }
-
-        [MaxLength(200)]
-        public string CityDescription { get; set; }
+        public string CourseName { get; set; }
     }
 
-    public class CourseForSaveWithCountryDto : CityForSaveDto
+    public class CourseForUpdateDto : CourseForSaveDto
     {
-        public virtual int CountryID { get; set; }
+        public int CourseID { get; set; }
     }
 
-    public class CourseForUpdateDto : CityForSaveWithCountryDto
+    public class CourseDtoNoPersonInfo : CourseForUpdateDto
     {
-        public int CityId { get; set; }
+        // Klasen her er "kun" mdtaget for navngivningens skyld. 
+        // Klassen CourseForUpdateDto kunne selvfølgelig være anvendt
+        // i stedet for !!! 
     }
 
-    public class CourseDTO : CityForUpdateDto
+    public class CourseDto : CourseForUpdateDto
     {
-        public CountryDtoNoCity Country { get; set; }
-    }
-
-    public class CityDtoNoCountry : CityForUpdateDto
-    {
-
+        //public List<PersonDtoNoSchoolInfo> Persons { get; set; }
+        public List<HTXStudentDtoNoCourseInfo> HTXStudents { get; set; }
     }
 }

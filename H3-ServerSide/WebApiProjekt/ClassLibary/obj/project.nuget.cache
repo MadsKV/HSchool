@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PPDyQRkKGUrJJnG5IdRXGUGc83w0XElroda7qosSwX7Q1MbN8ESH1NxY4uNgOkIv2q2gE/teKhe5gi0cmVVGwg==",
+  "dgSpecHash": "jH6Hq+d+s0rSyMzCDRbrPziQDeggePYCKwoXuDE/svD7AlSuhf0HjN56NXgTThAmEagkpL28xSUm9nr9gCYB8Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\MadsV\\Documents\\GitHub\\HSchool\\H3-ServerSide\\WebApiProjekt\\ClassLibary\\ClassLibary.csproj",
   "expectedPackageFiles": [
@@ -164,10 +164,7 @@
     "C:\\Users\\MadsV\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\MadsV\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\MadsV\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\MadsV\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\MadsV\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\MadsV\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\MadsV\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\MadsV\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

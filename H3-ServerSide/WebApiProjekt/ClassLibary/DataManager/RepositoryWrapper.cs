@@ -10,40 +10,113 @@ namespace ClassLibary.DataManager
     {
         private DatabaseContext _repoContext;
 
-        private ICourseRepository _cityRepositoryWrapper;
-        private IEmployeeRepository _countryRepositoryWrapper;
+        private ISchoolRepository _schoolRepositoryWrapper;
+
+        private IEmployeeRepository _employeeRepositoryWrapper;
+
+        private IEUDStudentRepository _eUDStudentRepositoryWrapper;
+
+        private IHTXStudentRepository _hTXStudentRepositoryWrapper;
+        private ICourseRepository _courseRepositoryWrapper;
+        private IPersonRepository _personRepositoryWrapper;
+        private IStudentRepository _studentRepositoryWrapper;
 
         public RepositoryWrapper(DatabaseContext repositoryContext)
         {
             this._repoContext = repositoryContext;
         }
 
-        public ICourseRepository CityRepositoryWrapper
+        public ISchoolRepository SchoolRepositoryWrapper
         {
             get
             {
-                if (null == _cityRepositoryWrapper)
+                if (null == _schoolRepositoryWrapper)
                 {
-                    _cityRepositoryWrapper = new CourseRepository(_repoContext);
+                    _schoolRepositoryWrapper = new SchoolRepository(_repoContext);
                 }
 
-                return (_cityRepositoryWrapper);
+                return (_schoolRepositoryWrapper);
             }
         }
-                
-        public IEmployeeRepository CountryRepositoryWrapper
+
+        public IEmployeeRepository EmployeeRepositoryWrapper
         {
             get
             {
-                if (null == _countryRepositoryWrapper)
+                if (null == _employeeRepositoryWrapper)
                 {
-                    _countryRepositoryWrapper = new EmployeeRepository(_repoContext);
+                    _employeeRepositoryWrapper = new EmployeeRepository(_repoContext);
                 }
 
-                return (_countryRepositoryWrapper);
+                return (_employeeRepositoryWrapper);
             }
         }
-                                
+
+        public IEUDStudentRepository EUDStudentRepositoryWrapper
+        {
+            get
+            {
+                if (null == _eUDStudentRepositoryWrapper)
+                {
+                    _eUDStudentRepositoryWrapper = new EUDStudentRepository(_repoContext);
+                }
+
+                return (_eUDStudentRepositoryWrapper);
+            }
+        }
+
+        public IHTXStudentRepository HTXStudentRepositoryWrapper
+        {
+            get
+            {
+                if (null == _hTXStudentRepositoryWrapper)
+                {
+                    _hTXStudentRepositoryWrapper = new HTXStudentRepository(_repoContext);
+                }
+
+                return (_hTXStudentRepositoryWrapper);
+            }
+        }
+
+        public ICourseRepository CourseRepositoryWrapper
+        {
+            get
+            {
+                if (null == _courseRepositoryWrapper)
+                {
+                    _courseRepositoryWrapper = new CourseRepository(_repoContext);
+                }
+
+                return (_courseRepositoryWrapper);
+            }
+        }
+
+        public IPersonRepository PersonRepositoryWrapper
+        {
+            get
+            {
+                if (null == _personRepositoryWrapper)
+                {
+                    _personRepositoryWrapper = new PersonRepository(_repoContext);
+                }
+
+                return (_personRepositoryWrapper);
+            }
+        }
+
+        public IStudentRepository StudentRepositoryWrapper
+        {
+            get
+            {
+                if (null == _studentRepositoryWrapper)
+                {
+                    _studentRepositoryWrapper = new StudentRepository(_repoContext);
+                }
+
+                return (_studentRepositoryWrapper);
+            }
+        }
+
         public void Save()
         {
             _repoContext.SaveChanges();

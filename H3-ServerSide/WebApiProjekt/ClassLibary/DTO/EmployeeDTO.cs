@@ -5,28 +5,26 @@ using System.Text;
 
 namespace ClassLibary.DTO
 {
-    public class CountryForSaveDto
+    public class EmployeeForSaveDto : PersonForSaveDto
     {
         [Required]
-        [MaxLength(50)]
-        public string CountryName { get; set; }
-
-        [MaxLength(200)]
-        public string CountryDescription { get; set; }
+        public int Salary { get; set; }
     }
 
-    public class CountryForUpdateDto : CountryForSaveDto
+    public class EmployeeForUpdateDto : EmployeeForSaveDto
     {
-        public int CountryID { get; set; }
+        public int PersonId { get; set; }
     }
 
-    public class CountryDtoNoCity : CountryForUpdateDto
+    public class EmployeeDtoNoPersonInfo : EmployeeForUpdateDto
     {
-
+        // Klasen her er "kun" medtaget for navngivningens skyld. 
+        // Klassen EmployeeForUpdateDto kunne selvfølgelig være anvendt
+        // i stedet for !!! 
     }
 
-    public class EmployeeDTO : CountryForUpdateDto
+    public class EmployeeDto : EmployeeForUpdateDto
     {
-        public List<CityDtoNoCountry> Cities { get; set; }
+        public SchoolDtoNoPersonInfo School { get; set; }
     }
 }

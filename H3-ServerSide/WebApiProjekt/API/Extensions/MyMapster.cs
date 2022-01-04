@@ -4,7 +4,7 @@ using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
 
-namespace h3pd040121_Projekt1_WebApi.Extensions
+namespace API.Extensions
 {
     public static class MyMapster
     {

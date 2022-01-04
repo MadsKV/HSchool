@@ -8,33 +8,32 @@ using ClassLibary.Models;
 
 namespace ClassLibary.DTO
 {
-    public class CityForSaveDto
+    public class HTXStudentForSaveDto : StudentForSaveDto
     {
-        [Required(ErrorMessage = "You should provide a name value.")]
-        [MaxLength(50)]
-        public string CityName { get; set; }
-
-        [MaxLength(200)]
-        public string CityDescription { get; set; }
+        [Required]
+        public int CourseId { get; set; }
     }
 
-    public class CityForSaveWithCountryDto : CityForSaveDto
+    public class HTXStudentForUpdateDto : HTXStudentForSaveDto
     {
-        public virtual int CountryID { get; set; }
+        public int PersonId { get; set; }
     }
 
-    public class CityForUpdateDto : CityForSaveWithCountryDto
+    public class HTXStudentDtoNoSchoolInfo : HTXStudentForUpdateDto
     {
-        public int CityId { get; set; }
+        // Klasen her er "kun" medtaget for navngivningens skyld. 
+        // Klassen HTXStudentForUpdateDto kunne selvfølgelig være anvendt
+        // i stedet for !!! 
     }
 
-    public class CourseDTO : CityForUpdateDto
+    public class HTXStudentDtoNoCourseInfo : HTXStudentForUpdateDto
     {
-        public CountryDtoNoCity Country { get; set; }
+        public SchoolDtoNoPersonInfo School { get; set; }
     }
 
-    public class CityDtoNoCountry : CityForUpdateDto
+    public class HTXStudentDto : HTXStudentForUpdateDto
     {
-
+        public SchoolDtoNoPersonInfo School { get; set; }
+        public CourseDtoNoPersonInfo Course { get; set; }
     }
 }

@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CityInfo1_WebApi.Extensions
+namespace API.Extensions
 {
     public static class ServiceExtension
     {
